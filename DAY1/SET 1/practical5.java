@@ -17,7 +17,7 @@ public class practical5 {
             if(scan.hasNextInt()){
                 c=scan.nextInt();
                 switch(c){
-                    case 1:
+                        case 1:
                         final_price=(int)(product_price[c-1]+(product_price[c-1]*tax[c-1])/100);
                         break;
                         case 2:
