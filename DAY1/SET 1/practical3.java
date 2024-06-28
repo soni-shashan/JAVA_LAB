@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 public class practical3
 {
 	public static void main(String[] args){
