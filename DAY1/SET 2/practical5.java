@@ -15,7 +15,7 @@ public class practical5 {
     public static String result(String s){
         String[] wordStrings=s.split(" ");
         String ans="";
-        for(String word : wordStrings){
+        for(String word : wordStrings){//for(int i=0;i<wordString.length();i++)
             StringBuilder x=new StringBuilder(word);
             ans+=x.reverse();
             ans+=" ";
