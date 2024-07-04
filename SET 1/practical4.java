@@ -1,3 +1,5 @@
+// This Practical is made by 23CS042-SHASHAN LUMBHANI
+
 public class practical4{
     public static void main(String[] args){
         int[][] a={{1},{1,2},{1,2,3}};

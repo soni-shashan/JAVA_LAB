@@ -1,8 +1,9 @@
 // This Practical is made by 23CS042-SHASHAN LUMBHANI
-public class practical2
+
+
+public class practical0
 {
 	public static void main(String[] args){
-		int var1=10;
-		System.out.println(var1+" is the value of var1");
+		System.out.println("Hello World!!");
 	}
 }

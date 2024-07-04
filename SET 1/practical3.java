@@ -1,4 +1,5 @@
-// import java.util.*;
+// This Practical is made by 23CS042-SHASHAN LUMBHANI
+
 public class practical3
 {
 	public static void main(String[] args){

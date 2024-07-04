@@ -1,3 +1,5 @@
+// This Practical is made by 23CS042-SHASHAN LUMBHANI
+
 import java.util.Scanner;
 
 public class practical5 {
