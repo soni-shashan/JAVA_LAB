@@ -1,9 +1,14 @@
+import java.util.Scanner;
+
 public class practical6 {
     public static void main(String[] args) {
-        Complex c1=new Complex(1,2);
-        Complex c2=new Complex(5,6);
-        System.out.println("c1 + c2 :: "+Complex.addition(c1, c2).ToString());
-        System.out.println("c1 - c2 :: "+Complex.subtraction(c1, c2).ToString());
-        System.out.println("c1 * c2 :: "+Complex.multiplication(c1, c2).ToString());
+        Scanner scanner=new Scanner(System.in);
+        Complex c1=new Complex();
+        c1.read(scanner);
+        Complex c2=new Complex();
+        c2.read(scanner);
+        System.out.println("c1 + c2 = "+Complex.addition(c1, c2).toString());
+        System.out.println("c1 - c2 = "+Complex.subtraction(c1, c2).toString());
+        System.out.println("c1 * c2 = "+Complex.multiplication(c1, c2).toString());
     }   
 }
