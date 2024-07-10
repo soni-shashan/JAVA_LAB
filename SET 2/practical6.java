@@ -16,7 +16,7 @@ public class practical6 {
        scanner.close();        
     }
     public static String reverse(String s){
-        return new StringBuffer(s).reverse().toString();
+        return new StringBuilder(s).reverse().toString();
     }
     public static String sort(String s){
         int[] temp=new int[s.length()];
