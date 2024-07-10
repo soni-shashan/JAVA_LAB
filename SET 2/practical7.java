@@ -14,5 +14,7 @@ public class practical7 {
         String[] temp=s.split(" ");
         System.out.println("Extracted String: "+temp[0]);
         scanner.close();
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");
     }
 }

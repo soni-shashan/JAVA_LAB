@@ -10,6 +10,8 @@ public class practical4 {
        }
        System.out.println("Answer Is "+result(s));
        scanner.close();
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");
     }
     public static String result(String s){
         String ans="";

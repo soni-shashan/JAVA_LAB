@@ -13,7 +13,9 @@ public class practical6 {
        System.out.println("Uppercase Of An String Is  "+s.toUpperCase());
        System.out.println("Reverse Of An String Is  "+reverse(s));
        System.out.println("Sort Of An String Is  "+sort(s));
-       scanner.close();        
+       scanner.close();  
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");      
     }
     public static String reverse(String s){
         return new StringBuilder(s).reverse().toString();

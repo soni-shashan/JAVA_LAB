@@ -16,6 +16,8 @@ public class practical1 {
             System.out.println("__________________________________________");
             System.out.println("Output IS "+front_times(s, i));
         }
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");
 
     }
     public static String front_times(String arr,int k){

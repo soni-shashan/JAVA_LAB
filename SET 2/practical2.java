@@ -19,6 +19,8 @@ public class practical2 {
         }   
         System.out.println("Total Numbers Of 9 Is "+count9(arr));
         scanner.close();
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");
     }
     public static int count9(int[] arr){
         int count=0;

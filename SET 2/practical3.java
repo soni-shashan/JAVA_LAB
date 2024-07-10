@@ -23,6 +23,8 @@ public class practical3 {
             System.out.println("False");
         }
         scanner.close();
+        // This Practical is made by 23CS042-SHASHAN LUMBHANI
+        System.out.println("This Practical is made by 23CS042-SHASHAN LUMBHANI");
     }
     public static boolean is9(int[] arr){
         if(arr.length>=4){
